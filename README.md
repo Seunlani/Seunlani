@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Seunlani. I'm new in the tech space. Data analytics and programming.
-- 👀 I’m interested in game developer and machine learning.
+- 👋 Hi, I’m Oluwaseun Lanigbagbe. I'm new in the tech space. Data analytics and programming.
+- 👀 I’m interested in ML and game developing.
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on machine AI and more game development.
-- 📫 How to reach me by send am SMS or WhatsApp +2348038779319  
+- 💞️ I’m looking to collaborate on ML/AI and more game development.
+- 📫 How to reach me by email: seunlanigbagbe@yahoo.co.uk 
 - ⚡ Fun fact: 😀
 
 <!---
